@@ -3,7 +3,7 @@ export const Navbar = () => {
   return (
     <nav className='h-16 bg-blue-800 flex justify-between px-3 items-center text-white'>
         <div className='logo font-bold text-lg'>
-            UrlShortner
+            SimpleLinks
         </div>
         <ul className='flex justify-center gap-4 items-center'>
             <a href='/'><li>Home</li></a>
